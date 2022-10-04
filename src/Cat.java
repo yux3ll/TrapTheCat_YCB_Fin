@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Cat extends Map{
 
-
+// do pay attention the the calss variability in the file system as that would make the translation into python quite more difficult.
+//İt might result in some bugs that would make the compiling procedure quite painful to say the least. Good luck!
 private Tile[] tiles;
     private final int difficulty;
     private int catTile;
